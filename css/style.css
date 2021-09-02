@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(9, 9, 54);
+}
+body{
+    margin: 1em auto 2em;
+    width: 81%;
+    padding: 0px 20px 20px 20px;
+    border: 10px solid rgb(201, 201, 11) ;
+}
+table{
+    border: "8px" black;
+    background-color: rgba(0, 0, 255, 0.226);
+    width: 80%;
+}
+th{
+    background-color: rgba(255, 255, 0, 0.459);
+}
+
+#boca{
+    color: rgba(6, 4, 109, 0.842);
+    text-shadow: 10px 10px 10px rgba(185, 182, 10, 0.63) ;
+    font-size : 36pt;
+    text-align : center;
+    font-family : verdana,arial;
+    }
+
+#martin , #riquelme , #tevez{
+
+    font-size : 36pt;
+    font-family : verdana,arial;
+    box-shadow: 10px 10px 10px rgb(9, 9, 54);
+}
+td {
+
+    font-size : 10pt;
+    font-family : verdana,arial;
+    text-align : center;
+    
+}
+p{
+    font-weight:unset;
+}
